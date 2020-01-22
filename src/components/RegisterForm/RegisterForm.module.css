@@ -1,0 +1,12 @@
+.formContainer {
+  border: 1px solid #ccc;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: #ccc 5px 5px 10px;
+  min-width: 550px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 40px;
+}
